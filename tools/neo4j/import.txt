@@ -50,9 +50,6 @@ MATCH (n:Person { epidat_id:"aha-1-1" }),(m:Person),
 RETURN p
 
 // Geschwister von aha-11-1 anzeigen
-MATCH (n)<-[k1:KIND_VON]-(e)-[k2:KIND_VON]->(g) 
+MATCH (n)<-[k1:KIND_VON]-(e)-[k2:KIND]->(g)
 WHERE n.epidat_id='aha-11-1' 
 RETURN n,e,g,k1,k2;
-
-MATCH (from {epidat_id:aha-13-1}), (to {epidat_id:aha-13-2}) create from-[:GESCHWISTER]->to
-RETURN *;
