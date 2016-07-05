@@ -1,5 +1,5 @@
 // Delete All
-MATCH (n) OPTIONAL MATCH (n)-[r]-() DELETE n,r;
+MATCH (n) DETACH DELETE n;
 
 // Index
 CREATE INDEX ON :Person(id);
@@ -32,7 +32,7 @@ RETURN *;
 // Edges Grosseltern-Enkel
 LOAD CSV WITH HEADERS FROM "http://dhd2016.digitale-akademie.de/workshop/data/epidat/csv/aha_grosseltern-enkel.txt"
  AS line FIELDTERMINATOR ','
-MATCH (from {epidat_id:line.grosseltern}), (to {epidat_id:line.enkel}) create from-[:ENKEL]->to
+MATCH (from {epidat_id:line.grosseltern}), (to {epidat_id:line.enkel}) create (from)-[:ENKEL]->(to)
 RETURN *;
 
 
