@@ -47,6 +47,7 @@ RETURN n LIMIT 100
 // Familiennetzwerk bis zur 15. Stufe anzeigen
 MATCH (n:Person { epidat_id:"aha-1-1" }),(m:Person),
   p = shortestPath((n)-[*..15]-(m))
+WHERE id(n) <> id(m)
 RETURN p
 
 // Geschwister von aha-11-1 anzeigen
