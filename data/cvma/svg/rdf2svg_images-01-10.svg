@@ -306,13 +306,13 @@
 <polygon style="fill:blue;stroke:blue;" points="1432.44,-702.137 1443,-703 1435.28,-695.74 1432.44,-702.137"/>
 <text text-anchor="middle" x="1311" y="-674.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P3_has_note</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620 -->
+<!-- http://id.corpusvitrearum.de/id/F2620 -->
 <g id="node38" class="node">
-            <title>http://id.corpusvitrearum.de/images/2620</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/2620" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/images/2620">
+            <title>http://id.corpusvitrearum.de/id/F2620</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F2620" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/id/F2620">
 <polygon style="fill:none;stroke:black;" points="215,-320 1,-320 1,-286 215,-286 215,-320"/>
 <text text-anchor="middle" x="108" y="-307" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">skos:Concept, crm:E18_Physical_Thing:</text>
-<text text-anchor="middle" x="108" y="-294" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/2620</text>
+<text text-anchor="middle" x="108" y="-294" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F2620</text>
 </a>
 </g>
 <!-- &quot;Hl. Nikolaus&quot; -->
@@ -320,9 +320,9 @@
             <title>"Hl. Nikolaus"</title>
 <text text-anchor="middle" x="654" y="-479.5" style="font-family:Times New Roman;font-size:10.00px;">"Hl. Nikolaus"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;&quot;Hl. Nikolaus&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;&quot;Hl. Nikolaus&quot; -->
 <g id="edge28" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;"Hl. Nikolaus"</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;"Hl. Nikolaus"</title>
 <path style="fill:none;stroke:blue;" d="M126,-320C148,-341 188,-376 227,-397 274,-423 297,-407 339,-438 346,-443 343,-449 350,-453 431,-498 541,-496 604,-489"/>
 <polygon style="fill:blue;stroke:blue;" points="604.398,-492.478 614,-488 603.701,-485.512 604.398,-492.478"/>
 <text text-anchor="middle" x="283" y="-442.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
@@ -334,9 +334,9 @@
 <text text-anchor="middle" x="654" y="-82" style="font-family:Times New Roman;font-size:10.00px;">crm:E44_Place_Appellation:</text>
 <text text-anchor="middle" x="654" y="-69" style="font-family:Times New Roman;font-size:10.00px;"> </text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;A9 -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;A9 -->
 <g id="edge30" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;A9</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;A9</title>
 <path style="fill:none;stroke:blue;" d="M111,-286C120,-242 150,-127 227,-80 339,-13 498,-37 587,-59"/>
 <polygon style="fill:blue;stroke:blue;" points="586.508,-62.4708 597,-61 587.881,-55.6067 586.508,-62.4708"/>
 <text text-anchor="middle" x="283" y="-84.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
@@ -353,9 +353,9 @@
 <text text-anchor="middle" x="654" y="-351" style="font-family:Times New Roman;font-size:10.00px;">(Heiliger) · Religion · Wanne · christliche</text>
 <text text-anchor="middle" x="654" y="-338" style="font-family:Times New Roman;font-size:10.00px;">Religion · drei · übernatürlich"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;&quot;der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen Anker · Ball\n· Bari · Bischof · Boot · Buch · Geldbeutel ·\nHeiliger · Kind · Mädchen · Myra · Nikolaus\n(Heiliger) · Religion · Wanne · christliche\nReligion · drei · übernatürlich&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;&quot;der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen Anker · Ball\n· Bari · Bischof · Boot · Buch · Geldbeutel ·\nHeiliger · Kind · Mädchen · Myra · Nikolaus\n(Heiliger) · Religion · Wanne · christliche\nReligion · drei · übernatürlich&quot; -->
 <g id="edge32" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;"der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen Anker · Ball\n· Bari · Bischof · Boot · Buch · Geldbeutel ·\nHeiliger · Kind · Mädchen · Myra · Nikolaus\n(Heiliger) · Religion · Wanne · christliche\nReligion · drei · übernatürlich"</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;"der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen Anker · Ball\n· Bari · Bischof · Boot · Buch · Geldbeutel ·\nHeiliger · Kind · Mädchen · Myra · Nikolaus\n(Heiliger) · Religion · Wanne · christliche\nReligion · drei · übernatürlich"</title>
 <path style="fill:none;stroke:blue;" d="M216,-319C304,-333 427,-352 521,-366"/>
 <polygon style="fill:blue;stroke:blue;" points="520.701,-369.488 531,-367 521.398,-362.522 520.701,-369.488"/>
 <text text-anchor="middle" x="283" y="-343.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
@@ -368,9 +368,9 @@
 <text text-anchor="middle" x="654" y="-625" style="font-family:Times New Roman;font-size:10.00px;">Kugeln (auf einem Buch), drei Geldbörsen, drei</text>
 <text text-anchor="middle" x="654" y="-612" style="font-family:Times New Roman;font-size:10.00px;">Kinder in einer Wanne, drei Mädchen"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;&quot;der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;&quot;der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen&quot; -->
 <g id="edge34" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;"der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen"</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;"der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen"</title>
 <path style="fill:none;stroke:blue;" d="M123,-320C147,-350 195,-413 216,-475 225,-500 209,-573 227,-591 248,-612 407,-623 524,-629"/>
 <polygon style="fill:blue;stroke:blue;" points="523.701,-632.488 534,-630 524.398,-625.522 523.701,-632.488"/>
 <text text-anchor="middle" x="283" y="-620.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -382,9 +382,9 @@
 <text text-anchor="middle" x="654" y="-138" style="font-family:Times New Roman;font-size:10.00px;">crm:E50_Date:</text>
 <text text-anchor="middle" x="654" y="-125" style="font-family:Times New Roman;font-size:10.00px;"> </text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;A38 -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;A38 -->
 <g id="edge36" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;A38</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;A38</title>
 <path style="fill:none;stroke:blue;" d="M112,-286C124,-246 158,-147 227,-108 271,-84 290,-106 339,-108 431,-112 538,-122 600,-128"/>
 <polygon style="fill:blue;stroke:blue;" points="599.701,-131.488 610,-129 600.398,-124.522 599.701,-131.488"/>
 <text text-anchor="middle" x="283" y="-112.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
@@ -397,9 +397,9 @@
 <text text-anchor="middle" x="654" y="-543" style="font-family:Times New Roman;font-size:10.00px;">book), three purses, three children in a tub,</text>
 <text text-anchor="middle" x="654" y="-530" style="font-family:Times New Roman;font-size:10.00px;">three maidens"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;&quot;the bishop Nicholas of Myra (or Bari); possible\nattributes: anchor, boat, three golden balls (on a\nbook), three purses, three children in a tub,\nthree maidens&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;&quot;the bishop Nicholas of Myra (or Bari); possible\nattributes: anchor, boat, three golden balls (on a\nbook), three purses, three children in a tub,\nthree maidens&quot; -->
 <g id="edge38" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;"the bishop Nicholas of Myra (or Bari); possible\nattributes: anchor, boat, three golden balls (on a\nbook), three purses, three children in a tub,\nthree maidens"</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;"the bishop Nicholas of Myra (or Bari); possible\nattributes: anchor, boat, three golden balls (on a\nbook), three purses, three children in a tub,\nthree maidens"</title>
 <path style="fill:none;stroke:blue;" d="M121,-320C144,-350 190,-415 216,-475 224,-493 213,-505 227,-517 249,-535 403,-544 519,-549"/>
 <polygon style="fill:blue;stroke:blue;" points="519,-552.5 529,-549 519,-545.5 519,-552.5"/>
 <text text-anchor="middle" x="283" y="-544.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -412,9 +412,9 @@
 <text text-anchor="middle" x="654" y="-238.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://iconclass.org/11H(NICHOLAS)</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;http://iconclass.org/11H(NICHOLAS) -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;http://iconclass.org/11H(NICHOLAS) -->
 <g id="edge40" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;http://iconclass.org/11H(NICHOLAS)</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;http://iconclass.org/11H(NICHOLAS)</title>
 <path style="fill:none;stroke:blue;" d="M126,-286C148,-266 187,-236 227,-223 287,-206 453,-219 560,-230"/>
 <polygon style="fill:blue;stroke:blue;" points="559.701,-233.488 570,-231 560.398,-226.522 559.701,-233.488"/>
 <text text-anchor="middle" x="283" y="-227.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -427,9 +427,9 @@
 <text text-anchor="middle" x="654" y="-180.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29 -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29 -->
 <g id="edge42" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29</title>
 <path style="fill:none;stroke:blue;" d="M115,-286C129,-251 167,-174 227,-143 272,-121 296,-119 339,-143 348,-148 342,-157 350,-162 424,-209 529,-204 594,-195"/>
 <polygon style="fill:blue;stroke:blue;" points="594.881,-198.393 604,-193 593.508,-191.529 594.881,-198.393"/>
 <text text-anchor="middle" x="283" y="-147.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
@@ -442,9 +442,9 @@
 <text text-anchor="middle" x="654" y="-295.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2620&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22 -->
+<!-- http://id.corpusvitrearum.de/id/F2620&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22 -->
 <g id="edge44" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2620-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22</title>
+            <title>http://id.corpusvitrearum.de/id/F2620-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22</title>
 <path style="fill:none;stroke:blue;" d="M216,-302C261,-302 315,-301 371,-301"/>
 <polygon style="fill:blue;stroke:blue;" points="371,-304.5 381,-301 371,-297.5 371,-304.5"/>
 <text text-anchor="middle" x="283" y="-307.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -492,32 +492,32 @@
 <text text-anchor="middle" x="654" y="-2222.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F31A2245%22</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974 -->
+<!-- http://id.corpusvitrearum.de/id/F974 -->
 <g id="node58" class="node">
-            <title>http://id.corpusvitrearum.de/images/974</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/974" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/images/974">
+            <title>http://id.corpusvitrearum.de/id/F974</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F974" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/id/F974">
 <polygon style="fill:none;stroke:black;" points="212,-2291 4,-2291 4,-2257 212,-2257 212,-2291"/>
 <text text-anchor="middle" x="108" y="-2278" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">skos:Concept, crm:E18_Physical_Thing:</text>
-<text text-anchor="middle" x="108" y="-2265" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/974</text>
+<text text-anchor="middle" x="108" y="-2265" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F974</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;http://iconclass.org/31A25513 -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;http://iconclass.org/31A25513 -->
 <g id="edge60" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;http://iconclass.org/31A25513</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;http://iconclass.org/31A25513</title>
 <path style="fill:none;stroke:blue;" d="M213,-2290C218,-2291 222,-2291 227,-2292 343,-2305 477,-2313 564,-2318"/>
 <polygon style="fill:blue;stroke:blue;" points="563.701,-2321.49 574,-2319 564.398,-2314.52 563.701,-2321.49"/>
 <text text-anchor="middle" x="283" y="-2304.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;A22 -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;A22 -->
 <g id="edge50" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;A22</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;A22</title>
 <path style="fill:none;stroke:blue;" d="M213,-2274C316,-2274 473,-2274 570,-2274"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-2277.5 580,-2274 570,-2270.5 570,-2277.5"/>
 <text text-anchor="middle" x="283" y="-2277.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F31A2245%22 -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F31A2245%22 -->
 <g id="edge56" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F31A2245%22</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F31A2245%22</title>
 <path style="fill:none;stroke:blue;" d="M213,-2258C218,-2257 222,-2257 227,-2256 302,-2247 385,-2241 458,-2236"/>
 <polygon style="fill:blue;stroke:blue;" points="458.398,-2239.48 468,-2235 457.701,-2232.51 458.398,-2239.48"/>
 <text text-anchor="middle" x="283" y="-2259.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -530,9 +530,9 @@
 <text text-anchor="middle" x="654" y="-2180.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://iconclass.org/31A521</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;http://iconclass.org/31A521 -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;http://iconclass.org/31A521 -->
 <g id="edge46" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;http://iconclass.org/31A521</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;http://iconclass.org/31A521</title>
 <path style="fill:none;stroke:blue;" d="M144,-2257C168,-2247 199,-2234 227,-2226 343,-2192 483,-2185 570,-2182"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-2185.5 580,-2182 570,-2178.5 570,-2185.5"/>
 <text text-anchor="middle" x="283" y="-2229.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
@@ -545,9 +545,9 @@
 <text text-anchor="middle" x="654" y="-2138.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://iconclass.org/32A62</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;http://iconclass.org/32A62 -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;http://iconclass.org/32A62 -->
 <g id="edge48" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;http://iconclass.org/32A62</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;http://iconclass.org/32A62</title>
 <path style="fill:none;stroke:blue;" d="M125,-2257C147,-2236 187,-2201 227,-2184 340,-2134 484,-2131 573,-2135"/>
 <polygon style="fill:blue;stroke:blue;" points="573,-2138.5 583,-2135 573,-2131.5 573,-2138.5"/>
 <text text-anchor="middle" x="283" y="-2187.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
@@ -557,9 +557,9 @@
             <title>"Hand"</title>
 <text text-anchor="middle" x="654" y="-2088.5" style="font-family:Times New Roman;font-size:10.00px;">"Hand"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;&quot;Hand&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;&quot;Hand&quot; -->
 <g id="edge52" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;"Hand"</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;"Hand"</title>
 <path style="fill:none;stroke:blue;" d="M117,-2257C133,-2226 173,-2161 227,-2133 357,-2064 539,-2076 617,-2086"/>
 <polygon style="fill:blue;stroke:blue;" points="616.701,-2089.49 627,-2087 617.398,-2082.52 616.701,-2089.49"/>
 <text text-anchor="middle" x="283" y="-2136.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -571,9 +571,9 @@
 <text text-anchor="middle" x="654" y="-2038" style="font-family:Times New Roman;font-size:10.00px;">crm:E50_Date:</text>
 <text text-anchor="middle" x="654" y="-2025" style="font-family:Times New Roman;font-size:10.00px;"> </text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;A13 -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;A13 -->
 <g id="edge54" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;A13</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;A13</title>
 <path style="fill:none;stroke:blue;" d="M113,-2257C124,-2217 159,-2118 227,-2075 343,-2001 514,-2012 600,-2024"/>
 <polygon style="fill:blue;stroke:blue;" points="599.508,-2027.47 610,-2026 600.881,-2020.61 599.508,-2027.47"/>
 <text text-anchor="middle" x="283" y="-2078.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
@@ -583,9 +583,9 @@
             <title>"hand"</title>
 <text text-anchor="middle" x="654" y="-2552.5" style="font-family:Times New Roman;font-size:10.00px;">"hand"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;&quot;hand&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;&quot;hand&quot; -->
 <g id="edge58" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;"hand"</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;"hand"</title>
 <path style="fill:none;stroke:blue;" d="M114,-2291C127,-2330 165,-2424 227,-2478 341,-2575 535,-2568 617,-2560"/>
 <polygon style="fill:blue;stroke:blue;" points="617.398,-2563.48 627,-2559 616.701,-2556.51 617.398,-2563.48"/>
 <text text-anchor="middle" x="283" y="-2536.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -598,9 +598,9 @@
 <text text-anchor="middle" x="654" y="-2476" style="font-family:Times New Roman;font-size:10.00px;">Mensch · Ripa, Cesare · corpo humano · menschliche</text>
 <text text-anchor="middle" x="654" y="-2463" style="font-family:Times New Roman;font-size:10.00px;">Figur · nackt"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;&quot;Hand Akt · Anatomie · Arm · Biologie · Frau ·\nGlied (Körper) · Hand · Körper · Leib · Mann ·\nMensch · Ripa, Cesare · corpo humano · menschliche\nFigur · nackt&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;&quot;Hand Akt · Anatomie · Arm · Biologie · Frau ·\nGlied (Körper) · Hand · Körper · Leib · Mann ·\nMensch · Ripa, Cesare · corpo humano · menschliche\nFigur · nackt&quot; -->
 <g id="edge62" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;"Hand Akt · Anatomie · Arm · Biologie · Frau ·\nGlied (Körper) · Hand · Körper · Leib · Mann ·\nMensch · Ripa, Cesare · corpo humano · menschliche\nFigur · nackt"</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;"Hand Akt · Anatomie · Arm · Biologie · Frau ·\nGlied (Körper) · Hand · Körper · Leib · Mann ·\nMensch · Ripa, Cesare · corpo humano · menschliche\nFigur · nackt"</title>
 <path style="fill:none;stroke:blue;" d="M117,-2291C135,-2321 175,-2384 227,-2416 312,-2467 422,-2484 509,-2489"/>
 <polygon style="fill:blue;stroke:blue;" points="509,-2492.5 519,-2489 509,-2485.5 509,-2492.5"/>
 <text text-anchor="middle" x="283" y="-2463.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
@@ -613,9 +613,9 @@
 <text text-anchor="middle" x="654" y="-2420.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://iconclass.org/31A2245</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;http://iconclass.org/31A2245 -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;http://iconclass.org/31A2245 -->
 <g id="edge64" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;http://iconclass.org/31A2245</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;http://iconclass.org/31A2245</title>
 <path style="fill:none;stroke:blue;" d="M128,-2291C151,-2310 190,-2340 227,-2359 335,-2415 477,-2425 567,-2426"/>
 <polygon style="fill:blue;stroke:blue;" points="567,-2429.5 577,-2426 567,-2422.5 567,-2429.5"/>
 <text text-anchor="middle" x="283" y="-2401.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -625,9 +625,9 @@
             <title>"Rechte Hand"</title>
 <text text-anchor="middle" x="654" y="-2370.5" style="font-family:Times New Roman;font-size:10.00px;">"Rechte Hand"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/974&#45;&gt;&quot;Rechte Hand&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F974&#45;&gt;&quot;Rechte Hand&quot; -->
 <g id="edge66" class="edge">
-            <title>http://id.corpusvitrearum.de/images/974-&gt;"Rechte Hand"</title>
+            <title>http://id.corpusvitrearum.de/id/F974-&gt;"Rechte Hand"</title>
 <path style="fill:none;stroke:blue;" d="M149,-2291C171,-2300 201,-2311 227,-2319 358,-2357 520,-2368 602,-2372"/>
 <polygon style="fill:blue;stroke:blue;" points="602,-2375.5 612,-2372 602,-2368.5 602,-2375.5"/>
 <text text-anchor="middle" x="283" y="-2344.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
@@ -798,18 +798,18 @@
 <polygon style="fill:blue;stroke:blue;" points="1454.4,-3455.55 1459,-3446 1449.45,-3450.6 1454.4,-3455.55"/>
 <text text-anchor="middle" x="1311" y="-3638.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P3_has_note</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448 -->
+<!-- http://id.corpusvitrearum.de/id/F4448 -->
 <g id="node101" class="node">
-            <title>http://id.corpusvitrearum.de/images/4448</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/4448" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/images/4448">
+            <title>http://id.corpusvitrearum.de/id/F4448</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F4448" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/id/F4448">
 <polygon style="fill:none;stroke:black;" points="215,-3585 1,-3585 1,-3551 215,-3551 215,-3585"/>
 <text text-anchor="middle" x="108" y="-3572" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">skos:Concept, crm:E18_Physical_Thing:</text>
-<text text-anchor="middle" x="108" y="-3559" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/4448</text>
+<text text-anchor="middle" x="108" y="-3559" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F4448</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448&#45;&gt;A26 -->
+<!-- http://id.corpusvitrearum.de/id/F4448&#45;&gt;A26 -->
 <g id="edge94" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4448-&gt;A26</title>
+            <title>http://id.corpusvitrearum.de/id/F4448-&gt;A26</title>
 <path style="fill:none;stroke:blue;" d="M119,-3551C138,-3523 179,-3468 227,-3438 344,-3365 514,-3364 600,-3369"/>
 <polygon style="fill:blue;stroke:blue;" points="599.701,-3372.49 610,-3370 600.398,-3365.52 599.701,-3372.49"/>
 <text text-anchor="middle" x="283" y="-3441.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
@@ -822,9 +822,9 @@
 <text text-anchor="middle" x="654" y="-3586.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://iconclass.org/11Q7</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448&#45;&gt;http://iconclass.org/11Q7 -->
+<!-- http://id.corpusvitrearum.de/id/F4448&#45;&gt;http://iconclass.org/11Q7 -->
 <g id="edge88" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4448-&gt;http://iconclass.org/11Q7</title>
+            <title>http://id.corpusvitrearum.de/id/F4448-&gt;http://iconclass.org/11Q7</title>
 <path style="fill:none;stroke:blue;" d="M216,-3572C322,-3576 482,-3582 576,-3586"/>
 <polygon style="fill:blue;stroke:blue;" points="576,-3589.5 586,-3586 576,-3582.5 576,-3589.5"/>
 <text text-anchor="middle" x="283" y="-3578.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -836,9 +836,9 @@
 <text text-anchor="middle" x="654" y="-3434" style="font-family:Times New Roman;font-size:10.00px;">crm:E44_Place_Appellation:</text>
 <text text-anchor="middle" x="654" y="-3421" style="font-family:Times New Roman;font-size:10.00px;"> </text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448&#45;&gt;A32 -->
+<!-- http://id.corpusvitrearum.de/id/F4448&#45;&gt;A32 -->
 <g id="edge90" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4448-&gt;A32</title>
+            <title>http://id.corpusvitrearum.de/id/F4448-&gt;A32</title>
 <path style="fill:none;stroke:blue;" d="M130,-3551C153,-3533 191,-3507 227,-3491 339,-3442 481,-3430 570,-3429"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-3432.5 580,-3429 570,-3425.5 570,-3432.5"/>
 <text text-anchor="middle" x="283" y="-3494.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
@@ -851,9 +851,9 @@
 <text text-anchor="middle" x="654" y="-3544.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11Q7%22</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11Q7%22 -->
+<!-- http://id.corpusvitrearum.de/id/F4448&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11Q7%22 -->
 <g id="edge92" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4448-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11Q7%22</title>
+            <title>http://id.corpusvitrearum.de/id/F4448-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11Q7%22</title>
 <path style="fill:none;stroke:blue;" d="M216,-3554C219,-3553 223,-3553 227,-3553 282,-3549 341,-3546 396,-3545"/>
 <polygon style="fill:blue;stroke:blue;" points="396,-3548.5 406,-3545 396,-3541.5 396,-3548.5"/>
 <text text-anchor="middle" x="283" y="-3556.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -865,9 +865,9 @@
 <text text-anchor="middle" x="654" y="-3489.5" style="font-family:Times New Roman;font-size:10.00px;"> Gott · Kult · Liturgie · Religion · christliche</text>
 <text text-anchor="middle" x="654" y="-3476.5" style="font-family:Times New Roman;font-size:10.00px;">Religion · uebernatuerlich"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448&#45;&gt;&quot;Gottesdienst und Liturgie der christlichen Kirchen\n Gott · Kult · Liturgie · Religion · christliche\nReligion · uebernatuerlich&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4448&#45;&gt;&quot;Gottesdienst und Liturgie der christlichen Kirchen\n Gott · Kult · Liturgie · Religion · christliche\nReligion · uebernatuerlich&quot; -->
 <g id="edge96" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4448-&gt;"Gottesdienst und Liturgie der christlichen Kirchen\n Gott · Kult · Liturgie · Religion · christliche\nReligion · uebernatuerlich"</title>
+            <title>http://id.corpusvitrearum.de/id/F4448-&gt;"Gottesdienst und Liturgie der christlichen Kirchen\n Gott · Kult · Liturgie · Religion · christliche\nReligion · uebernatuerlich"</title>
 <path style="fill:none;stroke:blue;" d="M151,-3551C173,-3543 201,-3533 227,-3528 323,-3508 432,-3499 516,-3495"/>
 <polygon style="fill:blue;stroke:blue;" points="516,-3498.5 526,-3495 516,-3491.5 516,-3498.5"/>
 <text text-anchor="middle" x="283" y="-3531.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
@@ -877,9 +877,9 @@
             <title>"Gottesdienst und Liturgie der christlichen Kirchen"</title>
 <text text-anchor="middle" x="654" y="-3752.5" style="font-family:Times New Roman;font-size:10.00px;">"Gottesdienst und Liturgie der christlichen Kirchen"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448&#45;&gt;&quot;Gottesdienst und Liturgie der christlichen Kirchen&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4448&#45;&gt;&quot;Gottesdienst und Liturgie der christlichen Kirchen&quot; -->
 <g id="edge98" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4448-&gt;"Gottesdienst und Liturgie der christlichen Kirchen"</title>
+            <title>http://id.corpusvitrearum.de/id/F4448-&gt;"Gottesdienst und Liturgie der christlichen Kirchen"</title>
 <path style="fill:none;stroke:blue;" d="M122,-3585C143,-3610 184,-3655 227,-3682 313,-3735 426,-3753 515,-3757"/>
 <polygon style="fill:blue;stroke:blue;" points="514.701,-3760.49 525,-3758 515.398,-3753.52 514.701,-3760.49"/>
 <text text-anchor="middle" x="283" y="-3731.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -890,9 +890,9 @@
 <text text-anchor="middle" x="654" y="-3701" style="font-family:Times New Roman;font-size:10.00px;">"public worship and liturgy of the Christian</text>
 <text text-anchor="middle" x="654" y="-3688" style="font-family:Times New Roman;font-size:10.00px;">churches"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448&#45;&gt;&quot;public worship and liturgy of the Christian\nchurches&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4448&#45;&gt;&quot;public worship and liturgy of the Christian\nchurches&quot; -->
 <g id="edge100" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4448-&gt;"public worship and liturgy of the Christian\nchurches"</title>
+            <title>http://id.corpusvitrearum.de/id/F4448-&gt;"public worship and liturgy of the Christian\nchurches"</title>
 <path style="fill:none;stroke:blue;" d="M141,-3585C165,-3597 198,-3613 227,-3625 281,-3647 294,-3655 350,-3668 410,-3681 479,-3688 536,-3692"/>
 <polygon style="fill:blue;stroke:blue;" points="535.701,-3695.49 546,-3693 536.398,-3688.52 535.701,-3695.49"/>
 <text text-anchor="middle" x="283" y="-3667.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -903,9 +903,9 @@
 <text text-anchor="middle" x="654" y="-3643" style="font-family:Times New Roman;font-size:10.00px;">"Der Priester macht fünf Kreuzzeichen über dem</text>
 <text text-anchor="middle" x="654" y="-3630" style="font-family:Times New Roman;font-size:10.00px;">heiligen Opfer / Bestechung des Judas"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4448&#45;&gt;&quot;Der Priester macht fünf Kreuzzeichen über dem\nheiligen Opfer / Bestechung des Judas&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4448&#45;&gt;&quot;Der Priester macht fünf Kreuzzeichen über dem\nheiligen Opfer / Bestechung des Judas&quot; -->
 <g id="edge102" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4448-&gt;"Der Priester macht fünf Kreuzzeichen über dem\nheiligen Opfer / Bestechung des Judas"</title>
+            <title>http://id.corpusvitrearum.de/id/F4448-&gt;"Der Priester macht fünf Kreuzzeichen über dem\nheiligen Opfer / Bestechung des Judas"</title>
 <path style="fill:none;stroke:blue;" d="M187,-3585C200,-3588 214,-3591 227,-3593 325,-3609 436,-3621 520,-3629"/>
 <polygon style="fill:blue;stroke:blue;" points="519.701,-3632.49 530,-3630 520.398,-3625.52 519.701,-3632.49"/>
 <text text-anchor="middle" x="283" y="-3610.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
@@ -1068,39 +1068,39 @@
 <text text-anchor="middle" x="654" y="-3168.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://iconclass.org/11H(Maternianus)%2044C23</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4434 -->
+<!-- http://id.corpusvitrearum.de/id/F4434 -->
 <g id="node142" class="node">
-            <title>http://id.corpusvitrearum.de/images/4434</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/4434" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/images/4434">
+            <title>http://id.corpusvitrearum.de/id/F4434</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F4434" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/id/F4434">
 <polygon style="fill:none;stroke:black;" points="215,-3210 1,-3210 1,-3176 215,-3176 215,-3210"/>
 <text text-anchor="middle" x="108" y="-3197" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">skos:Concept, crm:E18_Physical_Thing:</text>
-<text text-anchor="middle" x="108" y="-3184" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/4434</text>
+<text text-anchor="middle" x="108" y="-3184" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F4434</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4434&#45;&gt;A16 -->
+<!-- http://id.corpusvitrearum.de/id/F4434&#45;&gt;A16 -->
 <g id="edge132" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4434-&gt;A16</title>
+            <title>http://id.corpusvitrearum.de/id/F4434-&gt;A16</title>
 <path style="fill:none;stroke:blue;" d="M216,-3198C319,-3203 475,-3211 570,-3216"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-3219.5 580,-3216 570,-3212.5 570,-3219.5"/>
 <text text-anchor="middle" x="283" y="-3206.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4434&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(Maternianus)%2044C23%22 -->
+<!-- http://id.corpusvitrearum.de/id/F4434&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(Maternianus)%2044C23%22 -->
 <g id="edge134" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4434-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(Maternianus)%2044C23%22</title>
+            <title>http://id.corpusvitrearum.de/id/F4434-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(Maternianus)%2044C23%22</title>
 <path style="fill:none;stroke:blue;" d="M182,-3210C197,-3214 212,-3217 227,-3221 282,-3233 295,-3240 350,-3248 380,-3252 410,-3255 441,-3258"/>
 <polygon style="fill:blue;stroke:blue;" points="440.701,-3261.49 451,-3259 441.398,-3254.52 440.701,-3261.49"/>
 <text text-anchor="middle" x="283" y="-3248.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4434&#45;&gt;A29 -->
+<!-- http://id.corpusvitrearum.de/id/F4434&#45;&gt;A29 -->
 <g id="edge138" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4434-&gt;A29</title>
+            <title>http://id.corpusvitrearum.de/id/F4434-&gt;A29</title>
 <path style="fill:none;stroke:blue;" d="M132,-3210C156,-3226 192,-3249 227,-3263 355,-3312 517,-3319 600,-3319"/>
 <polygon style="fill:blue;stroke:blue;" points="600,-3322.5 610,-3319 600,-3315.5 600,-3322.5"/>
 <text text-anchor="middle" x="283" y="-3294.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4434&#45;&gt;http://iconclass.org/11H(Maternianus)%2044C23 -->
+<!-- http://id.corpusvitrearum.de/id/F4434&#45;&gt;http://iconclass.org/11H(Maternianus)%2044C23 -->
 <g id="edge136" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4434-&gt;http://iconclass.org/11H(Maternianus)%2044C23</title>
+            <title>http://id.corpusvitrearum.de/id/F4434-&gt;http://iconclass.org/11H(Maternianus)%2044C23</title>
 <path style="fill:none;stroke:blue;" d="M216,-3176C219,-3176 223,-3175 227,-3175 325,-3166 436,-3166 520,-3167"/>
 <polygon style="fill:blue;stroke:blue;" points="520,-3170.5 530,-3167 520,-3163.5 520,-3170.5"/>
 <text text-anchor="middle" x="283" y="-3178.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -1114,9 +1114,9 @@
 <text text-anchor="middle" x="654" y="-3087.5" style="font-family:Times New Roman;font-size:10.00px;">Gesellschaft · Kultur · Recht · Wahl ·</text>
 <text text-anchor="middle" x="654" y="-3074.5" style="font-family:Times New Roman;font-size:10.00px;">Zivilisation · buergerliche Rechte · waehlen"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4434&#45;&gt;&quot;männliche Heilige (MATERNIANUS) Heiliger ·\nReligion · christliche Religion · uebernatuerlich \nAbstimmung, Wahl Abstimmung · Buerger ·\nGesellschaft · Kultur · Recht · Wahl ·\nZivilisation · buergerliche Rechte · waehlen&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4434&#45;&gt;&quot;männliche Heilige (MATERNIANUS) Heiliger ·\nReligion · christliche Religion · uebernatuerlich \nAbstimmung, Wahl Abstimmung · Buerger ·\nGesellschaft · Kultur · Recht · Wahl ·\nZivilisation · buergerliche Rechte · waehlen&quot; -->
 <g id="edge130" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4434-&gt;"männliche Heilige (MATERNIANUS) Heiliger ·\nReligion · christliche Religion · uebernatuerlich \nAbstimmung, Wahl Abstimmung · Buerger ·\nGesellschaft · Kultur · Recht · Wahl ·\nZivilisation · buergerliche Rechte · waehlen"</title>
+            <title>http://id.corpusvitrearum.de/id/F4434-&gt;"männliche Heilige (MATERNIANUS) Heiliger ·\nReligion · christliche Religion · uebernatuerlich \nAbstimmung, Wahl Abstimmung · Buerger ·\nGesellschaft · Kultur · Recht · Wahl ·\nZivilisation · buergerliche Rechte · waehlen"</title>
 <path style="fill:none;stroke:blue;" d="M147,-3176C170,-3167 200,-3156 227,-3150 326,-3127 441,-3115 526,-3109"/>
 <polygon style="fill:blue;stroke:blue;" points="526.398,-3112.48 536,-3108 525.701,-3105.51 526.398,-3112.48"/>
 <text text-anchor="middle" x="283" y="-3153.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
@@ -1126,9 +1126,9 @@
             <title>"Bischofswahl des Hl. Maternianus"</title>
 <text text-anchor="middle" x="654" y="-3024.5" style="font-family:Times New Roman;font-size:10.00px;">"Bischofswahl des Hl. Maternianus"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4434&#45;&gt;&quot;Bischofswahl des Hl. Maternianus&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4434&#45;&gt;&quot;Bischofswahl des Hl. Maternianus&quot; -->
 <g id="edge140" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4434-&gt;"Bischofswahl des Hl. Maternianus"</title>
+            <title>http://id.corpusvitrearum.de/id/F4434-&gt;"Bischofswahl des Hl. Maternianus"</title>
 <path style="fill:none;stroke:blue;" d="M130,-3176C154,-3158 192,-3131 227,-3111 280,-3081 293,-3071 350,-3056 416,-3038 493,-3031 552,-3028"/>
 <polygon style="fill:blue;stroke:blue;" points="552,-3031.5 562,-3028 552,-3024.5 552,-3031.5"/>
 <text text-anchor="middle" x="283" y="-3114.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
@@ -1155,46 +1155,46 @@
 <text text-anchor="middle" x="654" y="-940.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622 -->
+<!-- http://id.corpusvitrearum.de/id/F2622 -->
 <g id="node157" class="node">
-            <title>http://id.corpusvitrearum.de/images/2622</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/2622" xlink:title="crm:E18_Physical_Thing, skos:Concept:\nhttp://id.corpusvitrearum.de/images/2622">
+            <title>http://id.corpusvitrearum.de/id/F2622</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F2622" xlink:title="crm:E18_Physical_Thing, skos:Concept:\nhttp://id.corpusvitrearum.de/id/F2622">
 <polygon style="fill:none;stroke:black;" points="215,-1320 1,-1320 1,-1286 215,-1286 215,-1320"/>
 <text text-anchor="middle" x="108" y="-1307" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">crm:E18_Physical_Thing, skos:Concept:</text>
-<text text-anchor="middle" x="108" y="-1294" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/2622</text>
+<text text-anchor="middle" x="108" y="-1294" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F2622</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;http://iconclass.org/11G31 -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;http://iconclass.org/11G31 -->
 <g id="edge158" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;http://iconclass.org/11G31</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;http://iconclass.org/11G31</title>
 <path style="fill:none;stroke:blue;" d="M155,-1286C177,-1278 203,-1270 227,-1263 277,-1249 294,-1259 339,-1237 345,-1234 345,-1230 350,-1228 422,-1199 510,-1195 573,-1198"/>
 <polygon style="fill:blue;stroke:blue;" points="573,-1201.5 583,-1198 573,-1194.5 573,-1201.5"/>
 <text text-anchor="middle" x="283" y="-1266.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;http://iconclass.org/71E464 -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;http://iconclass.org/71E464 -->
 <g id="edge162" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;http://iconclass.org/71E464</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;http://iconclass.org/71E464</title>
 <path style="fill:none;stroke:blue;" d="M116,-1286C134,-1246 181,-1140 216,-1051 222,-1037 216,-1028 227,-1020 254,-1000 454,-1000 571,-1002"/>
 <polygon style="fill:blue;stroke:blue;" points="571,-1005.5 581,-1002 571,-998.5 571,-1005.5"/>
 <text text-anchor="middle" x="283" y="-1023.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;A28 -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;A28 -->
 <g id="edge156" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;A28</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;A28</title>
 <path style="fill:none;stroke:blue;" d="M115,-1320C129,-1354 167,-1431 227,-1462 291,-1494 501,-1474 600,-1463"/>
 <polygon style="fill:blue;stroke:blue;" points="600.398,-1466.48 610,-1462 599.701,-1459.51 600.398,-1466.48"/>
 <text text-anchor="middle" x="283" y="-1480.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;http://iconclass.org/73G412 -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;http://iconclass.org/73G412 -->
 <g id="edge166" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;http://iconclass.org/73G412</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;http://iconclass.org/73G412</title>
 <path style="fill:none;stroke:blue;" d="M123,-1320C144,-1343 184,-1381 227,-1397 275,-1413 301,-1429 339,-1397 361,-1378 330,-1353 350,-1334 382,-1305 491,-1302 570,-1304"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-1307.5 580,-1304 570,-1300.5 570,-1307.5"/>
 <text text-anchor="middle" x="283" y="-1418.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22 -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22 -->
 <g id="edge150" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22</title>
 <path style="fill:none;stroke:blue;" d="M118,-1286C139,-1246 192,-1143 216,-1051 222,-1028 210,-962 227,-947 244,-932 345,-930 444,-933"/>
 <polygon style="fill:blue;stroke:blue;" points="444,-936.5 454,-933 444,-929.5 444,-936.5"/>
 <text text-anchor="middle" x="283" y="-950.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -1206,9 +1206,9 @@
 <text text-anchor="middle" x="654" y="-1572" style="font-family:Times New Roman;font-size:10.00px;">crm:E44_Place_Appellation:</text>
 <text text-anchor="middle" x="654" y="-1559" style="font-family:Times New Roman;font-size:10.00px;"> </text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;A39 -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;A39 -->
 <g id="edge148" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;A39</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;A39</title>
 <path style="fill:none;stroke:blue;" d="M110,-1320C117,-1368 142,-1501 227,-1557 281,-1592 461,-1585 570,-1576"/>
 <polygon style="fill:blue;stroke:blue;" points="570.398,-1579.48 580,-1575 569.701,-1572.51 570.398,-1579.48"/>
 <text text-anchor="middle" x="283" y="-1583.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
@@ -1219,9 +1219,9 @@
 <text text-anchor="middle" x="654" y="-1153" style="font-family:Times New Roman;font-size:10.00px;">"der Erzengel Michael kämpft gegen den Drachen</text>
 <text text-anchor="middle" x="654" y="-1140" style="font-family:Times New Roman;font-size:10.00px;">(Teufel, Satan)"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;&quot;der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan)&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;&quot;der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan)&quot; -->
 <g id="edge152" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;"der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan)"</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;"der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan)"</title>
 <path style="fill:none;stroke:blue;" d="M119,-1286C138,-1258 178,-1205 227,-1183 277,-1160 412,-1152 517,-1149"/>
 <polygon style="fill:blue;stroke:blue;" points="517,-1152.5 527,-1149 517,-1145.5 517,-1152.5"/>
 <text text-anchor="middle" x="283" y="-1186.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -1231,9 +1231,9 @@
             <title>"Hl. Michael als Drachentöter"</title>
 <text text-anchor="middle" x="654" y="-1077.5" style="font-family:Times New Roman;font-size:10.00px;">"Hl. Michael als Drachentöter"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;&quot;Hl. Michael als Drachentöter&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;&quot;Hl. Michael als Drachentöter&quot; -->
 <g id="edge154" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;"Hl. Michael als Drachentöter"</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;"Hl. Michael als Drachentöter"</title>
 <path style="fill:none;stroke:blue;" d="M112,-1286C123,-1245 157,-1143 227,-1100 255,-1083 447,-1080 564,-1080"/>
 <polygon style="fill:blue;stroke:blue;" points="564,-1083.5 574,-1080 564,-1076.5 564,-1083.5"/>
 <text text-anchor="middle" x="283" y="-1103.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
@@ -1247,9 +1247,9 @@
 <text text-anchor="middle" x="654" y="-1365.5" style="font-family:Times New Roman;font-size:10.00px;">Religion · kämpfen · mit Füßen treten · trampeln ·</text>
 <text text-anchor="middle" x="654" y="-1352.5" style="font-family:Times New Roman;font-size:10.00px;">übernatürlich"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;&quot;der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan) Drache · Engel · Erzengel ·\nMichael · Religion · Satan · Teufel · christliche\nReligion · kämpfen · mit Füßen treten · trampeln ·\nübernatürlich&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;&quot;der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan) Drache · Engel · Erzengel ·\nMichael · Religion · Satan · Teufel · christliche\nReligion · kämpfen · mit Füßen treten · trampeln ·\nübernatürlich&quot; -->
 <g id="edge160" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;"der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan) Drache · Engel · Erzengel ·\nMichael · Religion · Satan · Teufel · christliche\nReligion · kämpfen · mit Füßen treten · trampeln ·\nübernatürlich"</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;"der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan) Drache · Engel · Erzengel ·\nMichael · Religion · Satan · Teufel · christliche\nReligion · kämpfen · mit Füßen treten · trampeln ·\nübernatürlich"</title>
 <path style="fill:none;stroke:blue;" d="M117,-1320C135,-1350 175,-1409 227,-1433 273,-1453 291,-1443 339,-1433 345,-1431 345,-1429 350,-1428 404,-1412 464,-1400 517,-1393"/>
 <polygon style="fill:blue;stroke:blue;" points="517.398,-1396.48 527,-1392 516.701,-1389.51 517.398,-1396.48"/>
 <text text-anchor="middle" x="283" y="-1447.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
@@ -1260,9 +1260,9 @@
 <text text-anchor="middle" x="654" y="-1261" style="font-family:Times New Roman;font-size:10.00px;">"the Archangel Michael fighting the dragon (devil,</text>
 <text text-anchor="middle" x="654" y="-1248" style="font-family:Times New Roman;font-size:10.00px;">Satan)"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2622&#45;&gt;&quot;the Archangel Michael fighting the dragon (devil,\nSatan)&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2622&#45;&gt;&quot;the Archangel Michael fighting the dragon (devil,\nSatan)&quot; -->
 <g id="edge164" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2622-&gt;"the Archangel Michael fighting the dragon (devil,\nSatan)"</title>
+            <title>http://id.corpusvitrearum.de/id/F2622-&gt;"the Archangel Michael fighting the dragon (devil,\nSatan)"</title>
 <path style="fill:none;stroke:blue;" d="M216,-1316C219,-1316 223,-1317 227,-1317 277,-1319 299,-1345 339,-1317 351,-1308 339,-1295 350,-1287 397,-1250 461,-1240 518,-1240"/>
 <polygon style="fill:blue;stroke:blue;" points="518,-1243.5 528,-1240 518,-1236.5 518,-1243.5"/>
 <text text-anchor="middle" x="283" y="-1332.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -1288,39 +1288,39 @@
 <polygon style="fill:blue;stroke:blue;" points="1160.05,-1116.83 1164,-1107 1154.78,-1112.22 1160.05,-1116.83"/>
 <text text-anchor="middle" x="1028" y="-1508.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P87_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797 -->
+<!-- http://id.corpusvitrearum.de/id/F797 -->
 <g id="node173" class="node">
-            <title>http://id.corpusvitrearum.de/images/797</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/797" xlink:title="crm:E18_Physical_Thing, skos:Concept:\nhttp://id.corpusvitrearum.de/images/797">
+            <title>http://id.corpusvitrearum.de/id/F797</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F797" xlink:title="crm:E18_Physical_Thing, skos:Concept:\nhttp://id.corpusvitrearum.de/id/F797">
 <polygon style="fill:none;stroke:black;" points="212,-1790 4,-1790 4,-1756 212,-1756 212,-1790"/>
 <text text-anchor="middle" x="108" y="-1777" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">crm:E18_Physical_Thing, skos:Concept:</text>
-<text text-anchor="middle" x="108" y="-1764" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/797</text>
+<text text-anchor="middle" x="108" y="-1764" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F797</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797&#45;&gt;A19 -->
+<!-- http://id.corpusvitrearum.de/id/F797&#45;&gt;A19 -->
 <g id="edge178" class="edge">
-            <title>http://id.corpusvitrearum.de/images/797-&gt;A19</title>
+            <title>http://id.corpusvitrearum.de/id/F797-&gt;A19</title>
 <path style="fill:none;stroke:blue;" d="M123,-1790C144,-1814 185,-1856 227,-1882 334,-1944 479,-1954 570,-1954"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-1957.5 580,-1954 570,-1950.5 570,-1957.5"/>
 <text text-anchor="middle" x="283" y="-1928.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797&#45;&gt;A20 -->
+<!-- http://id.corpusvitrearum.de/id/F797&#45;&gt;A20 -->
 <g id="edge182" class="edge">
-            <title>http://id.corpusvitrearum.de/images/797-&gt;A20</title>
+            <title>http://id.corpusvitrearum.de/id/F797-&gt;A20</title>
 <path style="fill:none;stroke:blue;" d="M111,-1756C120,-1712 150,-1594 227,-1543 342,-1467 514,-1484 600,-1500"/>
 <polygon style="fill:blue;stroke:blue;" points="599.508,-1503.47 610,-1502 600.881,-1496.61 599.508,-1503.47"/>
 <text text-anchor="middle" x="283" y="-1546.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797&#45;&gt;http://iconclass.org/48A983112 -->
+<!-- http://id.corpusvitrearum.de/id/F797&#45;&gt;http://iconclass.org/48A983112 -->
 <g id="edge172" class="edge">
-            <title>http://id.corpusvitrearum.de/images/797-&gt;http://iconclass.org/48A983112</title>
+            <title>http://id.corpusvitrearum.de/id/F797-&gt;http://iconclass.org/48A983112</title>
 <path style="fill:none;stroke:blue;" d="M174,-1790C191,-1794 210,-1798 227,-1802 282,-1813 295,-1815 350,-1822 421,-1830 501,-1835 561,-1838"/>
 <polygon style="fill:blue;stroke:blue;" points="560.701,-1841.49 571,-1839 561.398,-1834.52 560.701,-1841.49"/>
 <text text-anchor="middle" x="283" y="-1822.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F48A983112%22 -->
+<!-- http://id.corpusvitrearum.de/id/F797&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F48A983112%22 -->
 <g id="edge176" class="edge">
-            <title>http://id.corpusvitrearum.de/images/797-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F48A983112%22</title>
+            <title>http://id.corpusvitrearum.de/id/F797-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F48A983112%22</title>
 <path style="fill:none;stroke:blue;" d="M213,-1778C281,-1782 372,-1787 454,-1791"/>
 <polygon style="fill:blue;stroke:blue;" points="454,-1794.5 464,-1791 454,-1787.5 454,-1794.5"/>
 <text text-anchor="middle" x="283" y="-1787.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -1332,9 +1332,9 @@
 <text text-anchor="middle" x="654" y="-1743.5" style="font-family:Times New Roman;font-size:10.00px;">· Laub · Oeffentlichkeit · Ornament · Palmette ·</text>
 <text text-anchor="middle" x="654" y="-1730.5" style="font-family:Times New Roman;font-size:10.00px;">Pflanze · Zivilisation"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797&#45;&gt;&quot;Palmette (Ornament) Gesellschaft · Kultur · Kunst\n· Laub · Oeffentlichkeit · Ornament · Palmette ·\nPflanze · Zivilisation&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F797&#45;&gt;&quot;Palmette (Ornament) Gesellschaft · Kultur · Kunst\n· Laub · Oeffentlichkeit · Ornament · Palmette ·\nPflanze · Zivilisation&quot; -->
 <g id="edge168" class="edge">
-            <title>http://id.corpusvitrearum.de/images/797-&gt;"Palmette (Ornament) Gesellschaft · Kultur · Kunst\n· Laub · Oeffentlichkeit · Ornament · Palmette ·\nPflanze · Zivilisation"</title>
+            <title>http://id.corpusvitrearum.de/id/F797-&gt;"Palmette (Ornament) Gesellschaft · Kultur · Kunst\n· Laub · Oeffentlichkeit · Ornament · Palmette ·\nPflanze · Zivilisation"</title>
 <path style="fill:none;stroke:blue;" d="M213,-1762C218,-1762 222,-1761 227,-1761 324,-1754 432,-1750 516,-1748"/>
 <polygon style="fill:blue;stroke:blue;" points="516,-1751.5 526,-1748 516,-1744.5 516,-1751.5"/>
 <text text-anchor="middle" x="283" y="-1764.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
@@ -1344,9 +1344,9 @@
             <title>"Zwickel mit Palmenlaub"</title>
 <text text-anchor="middle" x="654" y="-1680.5" style="font-family:Times New Roman;font-size:10.00px;">"Zwickel mit Palmenlaub"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797&#45;&gt;&quot;Zwickel mit Palmenlaub&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F797&#45;&gt;&quot;Zwickel mit Palmenlaub&quot; -->
 <g id="edge170" class="edge">
-            <title>http://id.corpusvitrearum.de/images/797-&gt;"Zwickel mit Palmenlaub"</title>
+            <title>http://id.corpusvitrearum.de/id/F797-&gt;"Zwickel mit Palmenlaub"</title>
 <path style="fill:none;stroke:blue;" d="M158,-1756C179,-1749 204,-1742 227,-1736 347,-1706 490,-1692 576,-1687"/>
 <polygon style="fill:blue;stroke:blue;" points="576.398,-1690.48 586,-1686 575.701,-1683.51 576.398,-1690.48"/>
 <text text-anchor="middle" x="283" y="-1739.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
@@ -1356,9 +1356,9 @@
             <title>"Palmette (Ornament)"</title>
 <text text-anchor="middle" x="654" y="-1622.5" style="font-family:Times New Roman;font-size:10.00px;">"Palmette (Ornament)"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797&#45;&gt;&quot;Palmette (Ornament)&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F797&#45;&gt;&quot;Palmette (Ornament)&quot; -->
 <g id="edge174" class="edge">
-            <title>http://id.corpusvitrearum.de/images/797-&gt;"Palmette (Ornament)"</title>
+            <title>http://id.corpusvitrearum.de/id/F797-&gt;"Palmette (Ornament)"</title>
 <path style="fill:none;stroke:blue;" d="M130,-1756C154,-1738 192,-1712 227,-1695 342,-1639 492,-1627 581,-1624"/>
 <polygon style="fill:blue;stroke:blue;" points="581,-1627.5 591,-1624 581,-1620.5 581,-1627.5"/>
 <text text-anchor="middle" x="283" y="-1698.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -1368,9 +1368,9 @@
             <title>"palmette ~ ornament"</title>
 <text text-anchor="middle" x="654" y="-1890.5" style="font-family:Times New Roman;font-size:10.00px;">"palmette ~ ornament"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/797&#45;&gt;&quot;palmette ~ ornament&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F797&#45;&gt;&quot;palmette ~ ornament&quot; -->
 <g id="edge180" class="edge">
-            <title>http://id.corpusvitrearum.de/images/797-&gt;"palmette ~ ornament"</title>
+            <title>http://id.corpusvitrearum.de/id/F797-&gt;"palmette ~ ornament"</title>
 <path style="fill:none;stroke:blue;" d="M135,-1790C159,-1805 194,-1825 227,-1837 345,-1880 492,-1891 579,-1893"/>
 <polygon style="fill:blue;stroke:blue;" points="579,-1896.5 589,-1893 579,-1889.5 579,-1896.5"/>
 <text text-anchor="middle" x="283" y="-1867.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -1411,183 +1411,183 @@
 <text text-anchor="middle" x="654" y="-2818.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://iconclass.org/11P3122%2073C1</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619 -->
+<!-- http://id.corpusvitrearum.de/id/F2619 -->
 <g id="node198" class="node">
-            <title>http://id.corpusvitrearum.de/images/2619</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/2619" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/images/2619">
+            <title>http://id.corpusvitrearum.de/id/F2619</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F2619" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/id/F2619">
 <polygon style="fill:none;stroke:black;" points="215,-520 1,-520 1,-486 215,-486 215,-520"/>
 <text text-anchor="middle" x="108" y="-507" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">skos:Concept, crm:E18_Physical_Thing:</text>
-<text text-anchor="middle" x="108" y="-494" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/2619</text>
+<text text-anchor="middle" x="108" y="-494" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F2619</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;&quot;Hl. Nikolaus&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;&quot;Hl. Nikolaus&quot; -->
 <g id="edge212" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;"Hl. Nikolaus"</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;"Hl. Nikolaus"</title>
 <path style="fill:none;stroke:blue;" d="M216,-499C333,-494 516,-488 604,-484"/>
 <polygon style="fill:blue;stroke:blue;" points="604,-487.5 614,-484 604,-480.5 604,-487.5"/>
 <text text-anchor="middle" x="283" y="-504.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;&quot;der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen Anker · Ball\n· Bari · Bischof · Boot · Buch · Geldbeutel ·\nHeiliger · Kind · Mädchen · Myra · Nikolaus\n(Heiliger) · Religion · Wanne · christliche\nReligion · drei · übernatürlich&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;&quot;der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen Anker · Ball\n· Bari · Bischof · Boot · Buch · Geldbeutel ·\nHeiliger · Kind · Mädchen · Myra · Nikolaus\n(Heiliger) · Religion · Wanne · christliche\nReligion · drei · übernatürlich&quot; -->
 <g id="edge200" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;"der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen Anker · Ball\n· Bari · Bischof · Boot · Buch · Geldbeutel ·\nHeiliger · Kind · Mädchen · Myra · Nikolaus\n(Heiliger) · Religion · Wanne · christliche\nReligion · drei · übernatürlich"</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;"der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen Anker · Ball\n· Bari · Bischof · Boot · Buch · Geldbeutel ·\nHeiliger · Kind · Mädchen · Myra · Nikolaus\n(Heiliger) · Religion · Wanne · christliche\nReligion · drei · übernatürlich"</title>
 <path style="fill:none;stroke:blue;" d="M187,-486C274,-468 417,-437 521,-415"/>
 <polygon style="fill:blue;stroke:blue;" points="521.881,-418.393 531,-413 520.508,-411.529 521.881,-418.393"/>
 <text text-anchor="middle" x="283" y="-483.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;&quot;der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;&quot;der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen&quot; -->
 <g id="edge206" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;"der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen"</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;"der Bischof Nikolaus von Myra (oder Bari);\nmögliche Attribute: Anker, Boot, drei goldene\nKugeln (auf einem Buch), drei Geldbörsen, drei\nKinder in einer Wanne, drei Mädchen"</title>
 <path style="fill:none;stroke:blue;" d="M117,-520C134,-551 174,-613 227,-637 278,-660 419,-654 524,-647"/>
 <polygon style="fill:blue;stroke:blue;" points="524.398,-650.478 534,-646 523.701,-643.512 524.398,-650.478"/>
 <text text-anchor="middle" x="283" y="-659.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;&quot;the bishop Nicholas of Myra (or Bari); possible\nattributes: anchor, boat, three golden balls (on a\nbook), three purses, three children in a tub,\nthree maidens&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;&quot;the bishop Nicholas of Myra (or Bari); possible\nattributes: anchor, boat, three golden balls (on a\nbook), three purses, three children in a tub,\nthree maidens&quot; -->
 <g id="edge202" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;"the bishop Nicholas of Myra (or Bari); possible\nattributes: anchor, boat, three golden balls (on a\nbook), three purses, three children in a tub,\nthree maidens"</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;"the bishop Nicholas of Myra (or Bari); possible\nattributes: anchor, boat, three golden balls (on a\nbook), three purses, three children in a tub,\nthree maidens"</title>
 <path style="fill:none;stroke:blue;" d="M136,-520C160,-533 195,-550 227,-557 323,-578 435,-576 519,-569"/>
 <polygon style="fill:blue;stroke:blue;" points="519.398,-572.478 529,-568 518.701,-565.512 519.398,-572.478"/>
 <text text-anchor="middle" x="283" y="-577.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;http://iconclass.org/11H(NICHOLAS) -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;http://iconclass.org/11H(NICHOLAS) -->
 <g id="edge204" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;http://iconclass.org/11H(NICHOLAS)</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;http://iconclass.org/11H(NICHOLAS)</title>
 <path style="fill:none;stroke:blue;" d="M122,-486C145,-456 191,-392 216,-331 225,-312 211,-299 227,-284 274,-244 440,-237 550,-238"/>
 <polygon style="fill:blue;stroke:blue;" points="550,-241.5 560,-238 550,-234.5 550,-241.5"/>
 <text text-anchor="middle" x="283" y="-291.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29 -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29 -->
 <g id="edge210" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;http://iconclass.org/11H%28FOURTEEN%20HOLY%20HELPERS%29</title>
 <path style="fill:none;stroke:blue;" d="M123,-486C147,-457 196,-394 216,-331 226,-303 206,-218 227,-197 273,-154 445,-162 557,-172"/>
 <polygon style="fill:blue;stroke:blue;" points="556.701,-175.488 567,-173 557.398,-168.522 556.701,-175.488"/>
 <text text-anchor="middle" x="283" y="-205.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22 -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22 -->
 <g id="edge198" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11H(NICHOLAS)%22</title>
 <path style="fill:none;stroke:blue;" d="M120,-486C139,-459 180,-407 227,-380 272,-356 302,-392 339,-357 352,-346 337,-331 350,-319 423,-260 540,-272 606,-286"/>
 <polygon style="fill:blue;stroke:blue;" points="605.508,-289.471 616,-288 606.881,-282.607 605.508,-289.471"/>
 <text text-anchor="middle" x="283" y="-384.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;A6 -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;A6 -->
 <g id="edge208" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;A6</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;A6</title>
 <path style="fill:none;stroke:blue;" d="M114,-520C128,-556 165,-638 227,-673 284,-705 462,-707 570,-705"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-708.5 580,-705 570,-701.5 570,-708.5"/>
 <text text-anchor="middle" x="283" y="-703.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2619&#45;&gt;A34 -->
+<!-- http://id.corpusvitrearum.de/id/F2619&#45;&gt;A34 -->
 <g id="edge214" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2619-&gt;A34</title>
+            <title>http://id.corpusvitrearum.de/id/F2619-&gt;A34</title>
 <path style="fill:none;stroke:blue;" d="M112,-520C122,-562 155,-669 227,-717 287,-757 499,-761 600,-760"/>
 <polygon style="fill:blue;stroke:blue;" points="600,-763.5 610,-760 600,-756.5 600,-763.5"/>
 <text text-anchor="middle" x="283" y="-752.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621 -->
+<!-- http://id.corpusvitrearum.de/id/F2621 -->
 <g id="node210" class="node">
-            <title>http://id.corpusvitrearum.de/images/2621</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/2621" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/images/2621">
+            <title>http://id.corpusvitrearum.de/id/F2621</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F2621" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/id/F2621">
 <polygon style="fill:none;stroke:black;" points="215,-1040 1,-1040 1,-1006 215,-1006 215,-1040"/>
 <text text-anchor="middle" x="108" y="-1027" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">skos:Concept, crm:E18_Physical_Thing:</text>
-<text text-anchor="middle" x="108" y="-1014" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/2621</text>
+<text text-anchor="middle" x="108" y="-1014" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F2621</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;http://iconclass.org/11G31 -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;http://iconclass.org/11G31 -->
 <g id="edge220" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;http://iconclass.org/11G31</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;http://iconclass.org/11G31</title>
 <path style="fill:none;stroke:blue;" d="M124,-1040C146,-1061 186,-1097 227,-1117 274,-1138 302,-1105 339,-1140 352,-1151 337,-1166 350,-1178 421,-1236 535,-1227 601,-1216"/>
 <polygon style="fill:blue;stroke:blue;" points="601.881,-1219.39 611,-1214 600.508,-1212.53 601.881,-1219.39"/>
 <text text-anchor="middle" x="283" y="-1143.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;http://iconclass.org/71E464 -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;http://iconclass.org/71E464 -->
 <g id="edge238" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;http://iconclass.org/71E464</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;http://iconclass.org/71E464</title>
 <path style="fill:none;stroke:blue;" d="M119,-1006C137,-977 177,-923 227,-903 273,-883 301,-871 339,-903 361,-920 331,-944 350,-964 414,-1025 522,-1023 591,-1015"/>
 <polygon style="fill:blue;stroke:blue;" points="591.398,-1018.48 601,-1014 590.701,-1011.51 591.398,-1018.48"/>
 <text text-anchor="middle" x="283" y="-906.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;A21 -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;A21 -->
 <g id="edge226" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;A21</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;A21</title>
 <path style="fill:none;stroke:blue;" d="M111,-1006C118,-960 146,-836 227,-787 270,-761 290,-785 339,-787 431,-792 538,-802 600,-809"/>
 <polygon style="fill:blue;stroke:blue;" points="599.701,-812.488 610,-810 600.398,-805.522 599.701,-812.488"/>
 <text text-anchor="middle" x="283" y="-791.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;A0 -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;A0 -->
 <g id="edge232" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;A0</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;A0</title>
 <path style="fill:none;stroke:blue;" d="M112,-1006C123,-965 157,-863 227,-823 271,-799 297,-798 339,-823 348,-828 342,-837 350,-843 414,-889 504,-898 570,-899"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-902.5 580,-899 570,-895.5 570,-902.5"/>
 <text text-anchor="middle" x="283" y="-826.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;http://iconclass.org/73G412 -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;http://iconclass.org/73G412 -->
 <g id="edge234" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;http://iconclass.org/73G412</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;http://iconclass.org/73G412</title>
 <path style="fill:none;stroke:blue;" d="M110,-1040C117,-1087 144,-1219 227,-1277 255,-1295 454,-1304 570,-1307"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-1310.5 580,-1307 570,-1303.5 570,-1310.5"/>
 <text text-anchor="middle" x="283" y="-1297.5" style="font-family:Times New Roman;font-size:10.00px;">skos:related</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22 -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22 -->
 <g id="edge224" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11G31%22</title>
 <path style="fill:none;stroke:blue;" d="M114,-1006C129,-971 166,-893 227,-863 272,-840 301,-831 339,-863 360,-880 331,-904 350,-922 421,-985 542,-970 608,-955"/>
 <polygon style="fill:blue;stroke:blue;" points="608.881,-958.393 618,-953 607.508,-951.529 608.881,-958.393"/>
 <text text-anchor="middle" x="283" y="-866.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;&quot;der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan)&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;&quot;der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan)&quot; -->
 <g id="edge236" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;"der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan)"</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;"der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan)"</title>
 <path style="fill:none;stroke:blue;" d="M216,-1036C272,-1044 330,-1054 339,-1063 355,-1077 335,-1094 350,-1109 395,-1149 459,-1162 517,-1163"/>
 <polygon style="fill:blue;stroke:blue;" points="517,-1166.5 527,-1163 517,-1159.5 517,-1166.5"/>
 <text text-anchor="middle" x="283" y="-1066.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;&quot;Hl. Michael als Drachentöter&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;&quot;Hl. Michael als Drachentöter&quot; -->
 <g id="edge222" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;"Hl. Michael als Drachentöter"</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;"Hl. Michael als Drachentöter"</title>
 <path style="fill:none;stroke:blue;" d="M148,-1006C171,-997 200,-987 227,-983 277,-974 300,-952 339,-983 355,-994 336,-1011 350,-1025 407,-1077 497,-1088 564,-1087"/>
 <polygon style="fill:blue;stroke:blue;" points="564,-1090.5 574,-1087 564,-1083.5 564,-1090.5"/>
 <text text-anchor="middle" x="283" y="-986.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;&quot;der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan) Drache · Engel · Erzengel ·\nMichael · Religion · Satan · Teufel · christliche\nReligion · kämpfen · mit Füßen treten · trampeln ·\nübernatürlich&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;&quot;der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan) Drache · Engel · Erzengel ·\nMichael · Religion · Satan · Teufel · christliche\nReligion · kämpfen · mit Füßen treten · trampeln ·\nübernatürlich&quot; -->
 <g id="edge228" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;"der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan) Drache · Engel · Erzengel ·\nMichael · Religion · Satan · Teufel · christliche\nReligion · kämpfen · mit Füßen treten · trampeln ·\nübernatürlich"</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;"der Erzengel Michael kämpft gegen den Drachen\n(Teufel, Satan) Drache · Engel · Erzengel ·\nMichael · Religion · Satan · Teufel · christliche\nReligion · kämpfen · mit Füßen treten · trampeln ·\nübernatürlich"</title>
 <path style="fill:none;stroke:blue;" d="M117,-1040C138,-1080 190,-1182 216,-1275 221,-1290 216,-1335 227,-1347 248,-1366 400,-1375 517,-1379"/>
 <polygon style="fill:blue;stroke:blue;" points="517,-1382.5 527,-1379 517,-1375.5 517,-1382.5"/>
 <text text-anchor="middle" x="283" y="-1370.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/2621&#45;&gt;&quot;the Archangel Michael fighting the dragon (devil,\nSatan)&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F2621&#45;&gt;&quot;the Archangel Michael fighting the dragon (devil,\nSatan)&quot; -->
 <g id="edge230" class="edge">
-            <title>http://id.corpusvitrearum.de/images/2621-&gt;"the Archangel Michael fighting the dragon (devil,\nSatan)"</title>
+            <title>http://id.corpusvitrearum.de/id/F2621-&gt;"the Archangel Michael fighting the dragon (devil,\nSatan)"</title>
 <path style="fill:none;stroke:blue;" d="M114,-1040C129,-1076 167,-1157 227,-1197 270,-1225 291,-1204 339,-1220 345,-1221 345,-1223 350,-1225 404,-1239 465,-1247 518,-1252"/>
 <polygon style="fill:blue;stroke:blue;" points="517.701,-1255.49 528,-1253 518.398,-1248.52 517.701,-1255.49"/>
 <text text-anchor="middle" x="283" y="-1223.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4446 -->
+<!-- http://id.corpusvitrearum.de/id/F4446 -->
 <g id="node221" class="node">
-            <title>http://id.corpusvitrearum.de/images/4446</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/4446" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/images/4446">
+            <title>http://id.corpusvitrearum.de/id/F4446</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F4446" xlink:title="skos:Concept, crm:E18_Physical_Thing:\nhttp://id.corpusvitrearum.de/id/F4446">
 <polygon style="fill:none;stroke:black;" points="215,-2859 1,-2859 1,-2825 215,-2825 215,-2859"/>
 <text text-anchor="middle" x="108" y="-2846" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">skos:Concept, crm:E18_Physical_Thing:</text>
-<text text-anchor="middle" x="108" y="-2833" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/4446</text>
+<text text-anchor="middle" x="108" y="-2833" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F4446</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4446&#45;&gt;A3 -->
+<!-- http://id.corpusvitrearum.de/id/F4446&#45;&gt;A3 -->
 <g id="edge248" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4446-&gt;A3</title>
+            <title>http://id.corpusvitrearum.de/id/F4446-&gt;A3</title>
 <path style="fill:none;stroke:blue;" d="M149,-2825C172,-2816 201,-2807 227,-2802 344,-2778 483,-2772 570,-2771"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-2774.5 580,-2771 570,-2767.5 570,-2774.5"/>
 <text text-anchor="middle" x="283" y="-2805.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4446&#45;&gt;A31 -->
+<!-- http://id.corpusvitrearum.de/id/F4446&#45;&gt;A31 -->
 <g id="edge250" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4446-&gt;A31</title>
+            <title>http://id.corpusvitrearum.de/id/F4446-&gt;A31</title>
 <path style="fill:none;stroke:blue;" d="M141,-2859C165,-2871 198,-2887 227,-2899 281,-2921 294,-2929 350,-2942 436,-2960 539,-2966 600,-2969"/>
 <polygon style="fill:blue;stroke:blue;" points="600,-2972.5 610,-2969 600,-2965.5 600,-2972.5"/>
 <text text-anchor="middle" x="283" y="-2941.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4446&#45;&gt;http://iconclass.org/11P3122%2073C1 -->
+<!-- http://id.corpusvitrearum.de/id/F4446&#45;&gt;http://iconclass.org/11P3122%2073C1 -->
 <g id="edge246" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4446-&gt;http://iconclass.org/11P3122%2073C1</title>
+            <title>http://id.corpusvitrearum.de/id/F4446-&gt;http://iconclass.org/11P3122%2073C1</title>
 <path style="fill:none;stroke:blue;" d="M216,-2828C219,-2827 223,-2827 227,-2827 335,-2819 458,-2818 545,-2819"/>
 <polygon style="fill:blue;stroke:blue;" points="545,-2822.5 555,-2819 545,-2815.5 545,-2822.5"/>
 <text text-anchor="middle" x="283" y="-2830.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
@@ -1606,9 +1606,9 @@
 <text text-anchor="middle" x="654" y="-2616" style="font-family:Times New Roman;font-size:10.00px;">Johannes der Taeufer (Heiliger) · Lukas 03 ·</text>
 <text text-anchor="middle" x="654" y="-2603" style="font-family:Times New Roman;font-size:10.00px;">Markus 01 · Matthaeus 03 · Neues Testament"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4446&#45;&gt;&quot;Diakon (römisch&#45;katholisch) Amtstraeger · Berufe\n· Diakon · Kirche (Institution) · Klerus · Orden ·\nOrganisation · Religion · Weihe · Wuerdentraeger ·\nchristliche Religion · katholische Kirche ·\nroemisch&#45;katholische Kirche · uebernatuerlich die\nGeschichte von Johannes dem Täufer (Matthäus 3;\nMarkus 1:4&#45;11; Lukas 3:1&#45;22; Johannes 1:19&#45;34) \nBibel · Christus · Erwachsener · Johannes 01 ·\nJohannes der Taeufer (Heiliger) · Lukas 03 ·\nMarkus 01 · Matthaeus 03 · Neues Testament&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4446&#45;&gt;&quot;Diakon (römisch&#45;katholisch) Amtstraeger · Berufe\n· Diakon · Kirche (Institution) · Klerus · Orden ·\nOrganisation · Religion · Weihe · Wuerdentraeger ·\nchristliche Religion · katholische Kirche ·\nroemisch&#45;katholische Kirche · uebernatuerlich die\nGeschichte von Johannes dem Täufer (Matthäus 3;\nMarkus 1:4&#45;11; Lukas 3:1&#45;22; Johannes 1:19&#45;34) \nBibel · Christus · Erwachsener · Johannes 01 ·\nJohannes der Taeufer (Heiliger) · Lukas 03 ·\nMarkus 01 · Matthaeus 03 · Neues Testament&quot; -->
 <g id="edge240" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4446-&gt;"Diakon (römisch-katholisch) Amtstraeger · Berufe\n· Diakon · Kirche (Institution) · Klerus · Orden ·\nOrganisation · Religion · Weihe · Wuerdentraeger ·\nchristliche Religion · katholische Kirche ·\nroemisch-katholische Kirche · uebernatuerlich die\nGeschichte von Johannes dem Täufer (Matthäus 3;\nMarkus 1:4-11; Lukas 3:1-22; Johannes 1:19-34) \nBibel · Christus · Erwachsener · Johannes 01 ·\nJohannes der Taeufer (Heiliger) · Lukas 03 ·\nMarkus 01 · Matthaeus 03 · Neues Testament"</title>
+            <title>http://id.corpusvitrearum.de/id/F4446-&gt;"Diakon (römisch-katholisch) Amtstraeger · Berufe\n· Diakon · Kirche (Institution) · Klerus · Orden ·\nOrganisation · Religion · Weihe · Wuerdentraeger ·\nchristliche Religion · katholische Kirche ·\nroemisch-katholische Kirche · uebernatuerlich die\nGeschichte von Johannes dem Täufer (Matthäus 3;\nMarkus 1:4-11; Lukas 3:1-22; Johannes 1:19-34) \nBibel · Christus · Erwachsener · Johannes 01 ·\nJohannes der Taeufer (Heiliger) · Lukas 03 ·\nMarkus 01 · Matthaeus 03 · Neues Testament"</title>
 <path style="fill:none;stroke:blue;" d="M130,-2825C153,-2808 191,-2781 227,-2766 319,-2727 429,-2701 515,-2685"/>
 <polygon style="fill:blue;stroke:blue;" points="515.881,-2688.39 525,-2683 514.508,-2681.53 515.881,-2688.39"/>
 <text text-anchor="middle" x="283" y="-2769.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
@@ -1619,9 +1619,9 @@
 <text text-anchor="middle" x="654" y="-2917" style="font-family:Times New Roman;font-size:10.00px;">"Der Diakon singt die Epistel / Johannes Baptista</text>
 <text text-anchor="middle" x="654" y="-2904" style="font-family:Times New Roman;font-size:10.00px;">zeigt auf Christus"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4446&#45;&gt;&quot;Der Diakon singt die Epistel / Johannes Baptista\nzeigt auf Christus&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4446&#45;&gt;&quot;Der Diakon singt die Epistel / Johannes Baptista\nzeigt auf Christus&quot; -->
 <g id="edge242" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4446-&gt;"Der Diakon singt die Epistel / Johannes Baptista\nzeigt auf Christus"</title>
+            <title>http://id.corpusvitrearum.de/id/F4446-&gt;"Der Diakon singt die Epistel / Johannes Baptista\nzeigt auf Christus"</title>
 <path style="fill:none;stroke:blue;" d="M187,-2859C200,-2862 214,-2865 227,-2867 325,-2883 436,-2895 521,-2903"/>
 <polygon style="fill:blue;stroke:blue;" points="520.701,-2906.49 531,-2904 521.398,-2899.52 520.701,-2906.49"/>
 <text text-anchor="middle" x="283" y="-2884.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
@@ -1634,46 +1634,46 @@
 <text text-anchor="middle" x="654" y="-2860.5" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11P3122%2073C1%22</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4446&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11P3122%2073C1%22 -->
+<!-- http://id.corpusvitrearum.de/id/F4446&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11P3122%2073C1%22 -->
 <g id="edge244" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4446-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11P3122%2073C1%22</title>
+            <title>http://id.corpusvitrearum.de/id/F4446-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F11P3122%2073C1%22</title>
 <path style="fill:none;stroke:blue;" d="M216,-2846C265,-2848 327,-2850 388,-2853"/>
 <polygon style="fill:blue;stroke:blue;" points="388,-2856.5 398,-2853 388,-2849.5 388,-2856.5"/>
 <text text-anchor="middle" x="283" y="-2852.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440 -->
+<!-- http://id.corpusvitrearum.de/id/F4440 -->
 <g id="node232" class="node">
-            <title>http://id.corpusvitrearum.de/images/4440</title>
-<a xlink:href="http://id.corpusvitrearum.de/images/4440" xlink:title="crm:E18_Physical_Thing, skos:Concept:\nhttp://id.corpusvitrearum.de/images/4440">
+            <title>http://id.corpusvitrearum.de/id/F4440</title>
+<a xlink:href="http://id.corpusvitrearum.de/id/F4440" xlink:title="crm:E18_Physical_Thing, skos:Concept:\nhttp://id.corpusvitrearum.de/id/F4440">
 <polygon style="fill:none;stroke:black;" points="215,-4049 1,-4049 1,-4015 215,-4015 215,-4049"/>
 <text text-anchor="middle" x="108" y="-4036" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">crm:E18_Physical_Thing, skos:Concept:</text>
-<text text-anchor="middle" x="108" y="-4023" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/images/4440</text>
+<text text-anchor="middle" x="108" y="-4023" style="font-family:Times New Roman;font-size:10.00px;fill:blue;">http://id.corpusvitrearum.de/id/F4440</text>
 </a>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440&#45;&gt;http://iconclass.org/73C84142 -->
+<!-- http://id.corpusvitrearum.de/id/F4440&#45;&gt;http://iconclass.org/73C84142 -->
 <g id="edge256" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4440-&gt;http://iconclass.org/73C84142</title>
+            <title>http://id.corpusvitrearum.de/id/F4440-&gt;http://iconclass.org/73C84142</title>
 <path style="fill:none;stroke:blue;" d="M216,-4036C317,-4040 469,-4046 564,-4050"/>
 <polygon style="fill:blue;stroke:blue;" points="564,-4053.5 574,-4050 564,-4046.5 564,-4053.5"/>
 <text text-anchor="middle" x="283" y="-4042.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F73C84142%22 -->
+<!-- http://id.corpusvitrearum.de/id/F4440&#45;&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F73C84142%22 -->
 <g id="edge254" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4440-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F73C84142%22</title>
+            <title>http://id.corpusvitrearum.de/id/F4440-&gt;http://www.europeana.eu/portal/search?q=what%3A%22http%3A%2F%2Ficonclass.org%2F73C84142%22</title>
 <path style="fill:none;stroke:blue;" d="M207,-4015C214,-4014 220,-4014 227,-4013 278,-4008 333,-4006 385,-4006"/>
 <polygon style="fill:blue;stroke:blue;" points="385,-4009.5 395,-4006 385,-4002.5 385,-4009.5"/>
 <text text-anchor="middle" x="283" y="-4016.5" style="font-family:Times New Roman;font-size:10.00px;">rdfs:seeAlso</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440&#45;&gt;A12 -->
+<!-- http://id.corpusvitrearum.de/id/F4440&#45;&gt;A12 -->
 <g id="edge260" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4440-&gt;A12</title>
+            <title>http://id.corpusvitrearum.de/id/F4440-&gt;A12</title>
 <path style="fill:none;stroke:blue;" d="M120,-4015C140,-3988 182,-3935 227,-3901 276,-3864 292,-3856 350,-3840 435,-3815 539,-3811 600,-3811"/>
 <polygon style="fill:blue;stroke:blue;" points="600,-3814.5 610,-3811 600,-3807.5 600,-3814.5"/>
 <text text-anchor="middle" x="283" y="-3904.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440&#45;&gt;A36 -->
+<!-- http://id.corpusvitrearum.de/id/F4440&#45;&gt;A36 -->
 <g id="edge266" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4440-&gt;A36</title>
+            <title>http://id.corpusvitrearum.de/id/F4440-&gt;A36</title>
 <path style="fill:none;stroke:blue;" d="M145,-4015C168,-4005 199,-3994 227,-3988 344,-3963 483,-3959 570,-3960"/>
 <polygon style="fill:blue;stroke:blue;" points="570,-3963.5 580,-3960 570,-3956.5 570,-3963.5"/>
 <text text-anchor="middle" x="283" y="-3991.5" style="font-family:Times New Roman;font-size:10.00px;">crm:P1_is_identified_by</text>
@@ -1687,9 +1687,9 @@
 <text text-anchor="middle" x="654" y="-3871.5" style="font-family:Times New Roman;font-size:10.00px;">· Parabel · Torheit · Vorkehrung · Weisheit ·</text>
 <text text-anchor="middle" x="654" y="-3858.5" style="font-family:Times New Roman;font-size:10.00px;">unterrichten"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440&#45;&gt;&quot;Darstellung der törichten Jungfrau(en) Bibel ·\nChristus · Erwachsener · Fleiss · Jungfrau ·\nKlugheit · Lehrer · Matthaeus 25 · Neues Testament\n· Parabel · Torheit · Vorkehrung · Weisheit ·\nunterrichten&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4440&#45;&gt;&quot;Darstellung der törichten Jungfrau(en) Bibel ·\nChristus · Erwachsener · Fleiss · Jungfrau ·\nKlugheit · Lehrer · Matthaeus 25 · Neues Testament\n· Parabel · Torheit · Vorkehrung · Weisheit ·\nunterrichten&quot; -->
 <g id="edge258" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4440-&gt;"Darstellung der törichten Jungfrau(en) Bibel ·\nChristus · Erwachsener · Fleiss · Jungfrau ·\nKlugheit · Lehrer · Matthaeus 25 · Neues Testament\n· Parabel · Torheit · Vorkehrung · Weisheit ·\nunterrichten"</title>
+            <title>http://id.corpusvitrearum.de/id/F4440-&gt;"Darstellung der törichten Jungfrau(en) Bibel ·\nChristus · Erwachsener · Fleiss · Jungfrau ·\nKlugheit · Lehrer · Matthaeus 25 · Neues Testament\n· Parabel · Torheit · Vorkehrung · Weisheit ·\nunterrichten"</title>
 <path style="fill:none;stroke:blue;" d="M128,-4015C150,-3996 189,-3967 227,-3952 318,-3916 427,-3900 513,-3893"/>
 <polygon style="fill:blue;stroke:blue;" points="513.398,-3896.48 523,-3892 512.701,-3889.51 513.398,-3896.48"/>
 <text text-anchor="middle" x="283" y="-3955.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:description</text>
@@ -1699,9 +1699,9 @@
             <title>"Darstellung der törichten Jungfrau(en)"</title>
 <text text-anchor="middle" x="654" y="-4216.5" style="font-family:Times New Roman;font-size:10.00px;">"Darstellung der törichten Jungfrau(en)"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440&#45;&gt;&quot;Darstellung der törichten Jungfrau(en)&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4440&#45;&gt;&quot;Darstellung der törichten Jungfrau(en)&quot; -->
 <g id="edge262" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4440-&gt;"Darstellung der törichten Jungfrau(en)"</title>
+            <title>http://id.corpusvitrearum.de/id/F4440-&gt;"Darstellung der törichten Jungfrau(en)"</title>
 <path style="fill:none;stroke:blue;" d="M122,-4049C143,-4074 184,-4119 227,-4146 322,-4205 450,-4220 542,-4222"/>
 <polygon style="fill:blue;stroke:blue;" points="542,-4225.5 552,-4222 542,-4218.5 542,-4225.5"/>
 <text text-anchor="middle" x="283" y="-4195.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -1711,9 +1711,9 @@
             <title>"representation of foolish virgin(s)"</title>
 <text text-anchor="middle" x="654" y="-4158.5" style="font-family:Times New Roman;font-size:10.00px;">"representation of foolish virgin(s)"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440&#45;&gt;&quot;representation of foolish virgin(s)&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4440&#45;&gt;&quot;representation of foolish virgin(s)&quot; -->
 <g id="edge264" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4440-&gt;"representation of foolish virgin(s)"</title>
+            <title>http://id.corpusvitrearum.de/id/F4440-&gt;"representation of foolish virgin(s)"</title>
 <path style="fill:none;stroke:blue;" d="M141,-4049C165,-4061 198,-4077 227,-4089 281,-4111 294,-4119 350,-4132 417,-4146 494,-4154 553,-4157"/>
 <polygon style="fill:blue;stroke:blue;" points="552.701,-4160.49 563,-4158 553.398,-4153.52 552.701,-4160.49"/>
 <text text-anchor="middle" x="283" y="-4131.5" style="font-family:Times New Roman;font-size:10.00px;">skos:prefLabel</text>
@@ -1723,9 +1723,9 @@
             <title>"törichte Jungfrau"</title>
 <text text-anchor="middle" x="654" y="-4100.5" style="font-family:Times New Roman;font-size:10.00px;">"törichte Jungfrau"</text>
 </g>
-<!-- http://id.corpusvitrearum.de/images/4440&#45;&gt;&quot;törichte Jungfrau&quot; -->
+<!-- http://id.corpusvitrearum.de/id/F4440&#45;&gt;&quot;törichte Jungfrau&quot; -->
 <g id="edge268" class="edge">
-            <title>http://id.corpusvitrearum.de/images/4440-&gt;"törichte Jungfrau"</title>
+            <title>http://id.corpusvitrearum.de/id/F4440-&gt;"törichte Jungfrau"</title>
 <path style="fill:none;stroke:blue;" d="M187,-4049C200,-4052 214,-4055 227,-4057 357,-4079 510,-4093 593,-4099"/>
 <polygon style="fill:blue;stroke:blue;" points="592.701,-4102.49 603,-4100 593.398,-4095.52 592.701,-4102.49"/>
 <text text-anchor="middle" x="283" y="-4074.5" style="font-family:Times New Roman;font-size:10.00px;">dcterms:title</text>
