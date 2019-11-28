@@ -18,7 +18,7 @@ MATCH (from {epidat_id:line.elternteil}), (to {epidat_id:line.kind}) create (fro
 RETURN *;
 
 // Edges Ehepartner
-LOAD CSV WITH HEADERS FROM "hhttps://github.com/digicademy/dhd2016-workshop/raw/master/data/epidat/csv/aha_ehepartner.txt"
+LOAD CSV WITH HEADERS FROM "https://github.com/digicademy/dhd2016-workshop/raw/master/data/epidat/csv/aha_ehepartner.txt"
  AS line FIELDTERMINATOR ','
 MATCH (from {epidat_id:line.ehepartner1}), (to {epidat_id:line.ehepartner2}) create (from)-[:EHEPARTNER]->(to)
 RETURN *;
