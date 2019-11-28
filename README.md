@@ -9,6 +9,8 @@ pre-conference workshop on visualisations.
 
 You can find the website at http://dhd2016.digitale-akademie.de/workshop/index.html
 
+or on Github Pages: https://digicademy.github.io/dhd2016-workshop/
+
 ![Visualisation tools used in the workshop](tools.png "Visualise all the things")
 
 The website, the data and the visualisations are released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
