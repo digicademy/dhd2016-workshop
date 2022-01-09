@@ -5,32 +5,32 @@ MATCH (n) DETACH DELETE n;
 CREATE INDEX ON :Person(id);
 
 // Name
-LOAD CSV WITH HEADERS FROM "https://github.com/digicademy/dhd2016-workshop/raw/master/data/epidat/csv/aha_person.txt"
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/digicademy/dhd2016-workshop/master/data/epidat/csv/aha_person.txt"
  AS line FIELDTERMINATOR ','
 CREATE (:Person {epidat_id:line.nodeID, name:line.name, geschlecht:line.geschlecht, sterbedatum:line.sterbedatum})
 RETURN *;
 
 
 // Edges Eltern-Kind
-LOAD CSV WITH HEADERS FROM "https://github.com/digicademy/dhd2016-workshop/raw/master/data/epidat/csv/aha_eltern-kind.txt"
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/digicademy/dhd2016-workshop/master/data/epidat/csv/aha_eltern-kind.txt"
  AS line FIELDTERMINATOR ','
 MATCH (from {epidat_id:line.elternteil}), (to {epidat_id:line.kind}) create (from)-[:KIND]->(to)
 RETURN *;
 
 // Edges Ehepartner
-LOAD CSV WITH HEADERS FROM "https://github.com/digicademy/dhd2016-workshop/raw/master/data/epidat/csv/aha_ehepartner.txt"
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/digicademy/dhd2016-workshop/master/data/epidat/csv/aha_ehepartner.txt"
  AS line FIELDTERMINATOR ','
 MATCH (from {epidat_id:line.ehepartner1}), (to {epidat_id:line.ehepartner2}) create (from)-[:EHEPARTNER]->(to)
 RETURN *;
 
 // Edges Geschwister
-LOAD CSV WITH HEADERS FROM "https://github.com/digicademy/dhd2016-workshop/raw/master/data/epidat/csv/aha_geschwister.txt"
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/digicademy/dhd2016-workshop/master/data/epidat/csv/aha_geschwister.txt"
  AS line FIELDTERMINATOR ','
 MATCH (from {epidat_id:line.geschwister1}), (to {epidat_id:line.geschwister2}) create (from)-[:GESCHWISTER]->(to)
 RETURN *;
 
 // Edges Grosseltern-Enkel
-LOAD CSV WITH HEADERS FROM "https://github.com/digicademy/dhd2016-workshop/raw/master/data/epidat/csv/aha_grosseltern-enkel.txt"
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/digicademy/dhd2016-workshop/master/data/epidat/csv/aha_grosseltern-enkel.txt"
  AS line FIELDTERMINATOR ','
 MATCH (from {epidat_id:line.grosseltern}), (to {epidat_id:line.enkel}) create (from)-[:ENKEL]->(to)
 RETURN *;
@@ -40,7 +40,7 @@ RETURN *;
 
 
 // Zeige mir eine Person mit der epidat_id 'aha-1-1'
-MATCH (n) 
+MATCH (n)
 WHERE n.epidat_id='aha-1-1'
 RETURN n LIMIT 100
 
@@ -52,5 +52,5 @@ RETURN p
 
 // Geschwister von aha-11-1 anzeigen
 MATCH (n)<-[k1:KIND]-(e)-[k2:KIND]->(g)
-WHERE n.epidat_id='aha-11-1' 
+WHERE n.epidat_id='aha-11-1'
 RETURN n,e,g,k1,k2;
